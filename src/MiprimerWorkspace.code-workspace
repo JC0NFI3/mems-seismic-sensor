@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Downloads/PERFILES"
+		},
+		{
+			"name": "ADXL345_ESP32_FIRSTTESTPLATFORMIO",
+			"path": "../../ADXL345_ESP32_FIRSTTESTPLATFORMIO"
+		},
+		{
+			"name": "test_funcionamiento",
+			"path": "../../mems-seismic-sensor/test_funcionamiento"
+		},
+		{
+			"name": "funcion-monitor-sensor",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
