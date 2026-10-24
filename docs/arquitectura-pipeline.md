@@ -1,3 +1,7 @@
+# Arquitectura y Pipeline del Sistema de Monitoreo Sísmico
+
+El siguiente diagrama muestra el flujo completo de adquisición, almacenamiento y procesamiento de la señal sísmica:
+
 ```mermaid
 graph TD
     classDef hardware fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
