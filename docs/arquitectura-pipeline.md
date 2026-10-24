@@ -1,3 +1,7 @@
+
+```mermaid
+graph TD
+    A[ADXL345 Sensor] --> B(Procesador ESP32)
 graph TD
     classDef hardware fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
     classDef firmware fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
