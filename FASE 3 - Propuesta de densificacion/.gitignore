@@ -1,0 +1,4 @@
+.platformio/
+.pio/
+.history/
+*.bak
