@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "87c49fb9-8aed-4f1a-ad80-d78b76ca2a08")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
 		(date "2026-10-23")
 	)
@@ -1388,29 +1388,29 @@
 		)
 	)
 	(junction
-		(at 181.61 132.08)
+		(at 147.32 132.08)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "3274898e-6834-4f9e-a5f1-24efafb57e54")
 	)
 	(junction
-		(at 180.34 140.97)
+		(at 146.05 140.97)
 		(diameter 0)
 		(color 196 0 0 1)
 		(uuid "57196aa0-3663-401d-b2d3-5f5723113741")
 	)
 	(junction
-		(at 191.77 55.88)
+		(at 157.48 55.88)
 		(diameter 0)
 		(color 196 0 0 1)
 		(uuid "8fb31dfe-d955-4f6d-8a46-66a45af3e1b3")
 	)
 	(wire
 		(pts
-			(xy 130.81 55.88) (xy 116.84 55.88)
+			(xy 96.52 55.88) (xy 82.55 55.88)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1418,10 +1418,10 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 101.6) (xy 212.09 101.6)
+			(xy 135.89 101.6) (xy 177.8 101.6)
 		)
 		(stroke
-			(width 0.0508)
+			(width 0.381)
 			(type default)
 			(color 255 68 0 1)
 		)
@@ -1429,10 +1429,10 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 134.62) (xy 180.34 140.97)
+			(xy 146.05 134.62) (xy 146.05 140.97)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1440,10 +1440,10 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 132.08) (xy 204.47 132.08)
+			(xy 147.32 132.08) (xy 170.18 132.08)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 0 0 0 1)
 		)
@@ -1451,10 +1451,10 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 55.88) (xy 233.68 140.97)
+			(xy 199.39 55.88) (xy 199.39 140.97)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1462,10 +1462,10 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 134.62) (xy 170.18 134.62)
+			(xy 146.05 134.62) (xy 135.89 134.62)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1473,10 +1473,10 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 132.08) (xy 170.18 132.08)
+			(xy 147.32 132.08) (xy 135.89 132.08)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 0 0 0 1)
 		)
@@ -1484,10 +1484,10 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 149.86) (xy 180.34 149.86)
+			(xy 82.55 149.86) (xy 146.05 149.86)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1495,10 +1495,10 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 55.88) (xy 233.68 55.88)
+			(xy 157.48 55.88) (xy 199.39 55.88)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1506,10 +1506,10 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 140.97) (xy 233.68 140.97)
+			(xy 146.05 140.97) (xy 199.39 140.97)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1517,10 +1517,10 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 55.88) (xy 191.77 71.12)
+			(xy 157.48 55.88) (xy 157.48 71.12)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1528,10 +1528,10 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 66.04) (xy 204.47 132.08)
+			(xy 170.18 66.04) (xy 170.18 132.08)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 0 0 0 1)
 		)
@@ -1539,10 +1539,10 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 60.96) (xy 181.61 60.96)
+			(xy 177.8 60.96) (xy 147.32 60.96)
 		)
 		(stroke
-			(width 0.0508)
+			(width 0.381)
 			(type default)
 			(color 255 68 0 1)
 		)
@@ -1550,20 +1550,20 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 109.22) (xy 203.2 63.5)
+			(xy 168.91 109.22) (xy 168.91 63.5)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 		)
 		(uuid "aace0550-4a20-4a00-842f-32e9ecb23c2f")
 	)
 	(wire
 		(pts
-			(xy 181.61 66.04) (xy 204.47 66.04)
+			(xy 147.32 66.04) (xy 170.18 66.04)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 0 0 0 1)
 		)
@@ -1571,20 +1571,20 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 63.5) (xy 181.61 63.5)
+			(xy 168.91 63.5) (xy 147.32 63.5)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 		)
 		(uuid "ba994b5e-3596-42ed-96ef-1fb877c20128")
 	)
 	(wire
 		(pts
-			(xy 181.61 132.08) (xy 181.61 73.66)
+			(xy 147.32 132.08) (xy 147.32 73.66)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 0 0 0 1)
 		)
@@ -1592,10 +1592,10 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 55.88) (xy 116.84 149.86)
+			(xy 82.55 55.88) (xy 82.55 149.86)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1603,10 +1603,10 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 140.97) (xy 180.34 149.86)
+			(xy 146.05 140.97) (xy 146.05 149.86)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1614,10 +1614,10 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 48.26) (xy 191.77 55.88)
+			(xy 157.48 48.26) (xy 157.48 55.88)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1625,20 +1625,20 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 109.22) (xy 203.2 109.22)
+			(xy 135.89 109.22) (xy 168.91 109.22)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 		)
 		(uuid "dc1338b2-adb1-4618-b4e7-d72aed56ed41")
 	)
 	(wire
 		(pts
-			(xy 181.61 48.26) (xy 191.77 48.26)
+			(xy 147.32 48.26) (xy 157.48 48.26)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1646,10 +1646,10 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 71.12) (xy 191.77 71.12)
+			(xy 147.32 71.12) (xy 157.48 71.12)
 		)
 		(stroke
-			(width 0.2286)
+			(width 0.381)
 			(type default)
 			(color 196 0 0 1)
 		)
@@ -1657,10 +1657,10 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 101.6) (xy 212.09 60.96)
+			(xy 177.8 101.6) (xy 177.8 60.96)
 		)
 		(stroke
-			(width 0.0508)
+			(width 0.381)
 			(type default)
 			(color 255 68 0 1)
 		)
@@ -1668,7 +1668,7 @@
 	)
 	(symbol
 		(lib_id "esp32_30pin_revised:ESP32_30Pin")
-		(at 156.21 116.84 270)
+		(at 121.92 116.84 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1679,7 +1679,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a37b2f2-9d3b-4f68-a689-d6487fc7b3fe")
 		(property "Reference" "U1"
-			(at 156.21 87.63 90)
+			(at 121.92 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1689,7 +1689,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 156.21 116.84 0)
+			(at 121.92 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1699,7 +1699,7 @@
 			)
 		)
 		(property "Footprint" "ESP32_30pin"
-			(at 156.21 90.17 90)
+			(at 121.92 90.17 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1710,7 +1710,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 116.84 0)
+			(at 121.92 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1721,7 +1721,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 116.84 0)
+			(at 121.92 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1832,7 +1832,7 @@
 	)
 	(symbol
 		(lib_id "ADXL345:ADXL345")
-		(at 156.21 60.96 0)
+		(at 121.92 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1843,7 +1843,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7e3fac1-5350-4528-bf08-fb7d1e55f4e9")
 		(property "Reference" "U2"
-			(at 156.21 40.64 0)
+			(at 121.92 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1853,7 +1853,7 @@
 			)
 		)
 		(property "Value" "ADXL345"
-			(at 156.21 43.18 0)
+			(at 121.92 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1863,7 +1863,7 @@
 			)
 		)
 		(property "Footprint" "ADXL345:PQFN80P500X300X100-14N"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1875,7 +1875,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1886,7 +1886,7 @@
 			)
 		)
 		(property "Description" "Acelerómetro Eje X, Y, Z ±2g, 4g, 8g, 16g 0,05Hz ~ 1,6kHz 14-LGA (3x5)"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1898,7 +1898,7 @@
 			)
 		)
 		(property "MF" "Analog Devices, Inc."
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1910,7 +1910,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" "105924"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1922,7 +1922,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1 mm"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1934,7 +1934,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1946,7 +1946,7 @@
 			)
 		)
 		(property "Package" "LGA -14 Analog Devices"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1958,7 +1958,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ADXL345/Analog+Devices/view-part/?ref=eda"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1970,7 +1970,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1982,7 +1982,7 @@
 			)
 		)
 		(property "PARTREV" "B"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1994,7 +1994,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ADXL345/Analog+Devices/view-part/?ref=snap"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2006,7 +2006,7 @@
 			)
 		)
 		(property "MP" "ADXL345"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2018,7 +2018,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Analog Devices"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2030,7 +2030,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2042,7 +2042,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "ADXL345"
-			(at 156.21 60.96 0)
+			(at 121.92 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
